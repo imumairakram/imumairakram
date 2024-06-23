@@ -4,11 +4,6 @@ Welcome to my GitHub profile! I'm currently a student enrolled in the BS Softwar
 ## About Me 🚀
 I am passionate about software development and continually learning new technologies to enhance my skills. As part of my journey, I work on various projects that showcase my abilities in programming and problem-solving
 
-## Connect with Me 🔗
-https://www.facebook.com/umairakram.4
-https://www.linkedin.com/in/imumairakram
-mailto:umaaiirakram@gmail.com
-
 ## Technical Skills 🛠️
 Programming Languages: Python, C, Java
 
