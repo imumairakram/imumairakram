@@ -1,16 +1,19 @@
-## Hi there 👋
+## Hi there 👋, I'm Umair Akram!
+Welcome to my GitHub profile! I'm currently a student enrolled in the BS Software Engineering Program. Below, you can find some information about me, including my technical skills and how to get in touch with me.
 
-<!--
-**imumairakram/imumairakram** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me:
+I am passionate about software development and continually learning new technologies to enhance my skills. As part of my journey, I work on various projects that showcase my abilities in programming and problem-solving
 
-Here are some ideas to get you started:
+## Connect with Me: 🔗
+Facebook
+Instagram
+LinkedIn
+Email
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Technical Skills: 🛠️
+**Programming Languages:* Python, C, Java
+**Scripting:* (Linux) Shell scripting
+
+Feel free to reach out to me through any of the platforms above. I am always open to discussing new ideas, collaborations, or opportunities.
+
+**Happy coding! 🚀*
