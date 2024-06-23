@@ -7,7 +7,7 @@ I am passionate about software development and continually learning new technolo
 
 
 ## Portfolio Website 🌍
-imumairakram.github.io/Portfolio
+https://imumairakram.github.io/Portfolio
 
 
 ## Technical Skills 🛠️
