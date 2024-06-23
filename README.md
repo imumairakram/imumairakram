@@ -1,11 +1,14 @@
-## Hi there Assets/Hi.gif, I'm Umair Akram!
-Welcome to my GitHub profile! I'm currently a student enrolled in the BS Software Engineering Program. Below, you can find some information about me, including my technical skills and how to get in touch with me.
+## Hi there 👋, I'm Umair Akram!
+Welcome to my GitHub profile! I'm currently a student enrolled in the BS Software Engineering Program. Below, I have included some information about me, including my technical skills and how to get in touch with me.
+
 
 ## About Me 🚀
-I am passionate about software development and continually learning new technologies to enhance my skills. As part of my journey, I work on various projects that showcase my abilities in programming and problem-solving
+I am passionate about software development and continually learning new technologies to enhance my skills. As part of my journey, I work on various projects that showcase my abilities in programming and problem-solving.
+
 
 ## Portfolio Website 🌍
-https://imumairakram.github.io/Portfolio
+imumairakram.github.io/Portfolio
+
 
 ## Technical Skills 🛠️
 Programming Languages: Python, C, Java
