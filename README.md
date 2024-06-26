@@ -17,5 +17,3 @@ Scripting: (Linux) Shell scripting
 
 
 ## **Happy coding! 🚀*
-Feel free to reach out to me through any of the platforms above. I am always open to discussing new ideas, collaborations, or opportunities.
-
