@@ -2,7 +2,8 @@
 
 - 🌱 I’m currently learning Python
 - 📫 How to reach me: umaaiirakram@gmail.com
-- ⚡ My website: https://imumairakram.github.io/Portfolio
+- 💬 My website: https://imumairakram.github.io/Portfolio
+- ⚡ Fun fact:This code was 90% coffee and 10% pure genius... 
   
 ### Connect with me:
 <div id="badges">
