@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Umair Akram</h1>
 
+- ✨ Student of life :)
 - 🌱 I’m currently learning Python
 - 📫 How to reach me: umaaiirakram@gmail.com
 - ⚡ My website: https://imumairakram.github.io/Portfolio
@@ -24,7 +25,7 @@
 </div>
 
 ### Languages and Tools:
-[![My Skills](https://skillicons.dev/icons?i=python,java,c,github,git,vscode,figma,&perline=4)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,java,github,canva,git,jupyter,vscode,figma&perline=5)](https://skillicons.dev)
 
 ![Umair Akram GitHub stats](https://github-readme-stats.vercel.app/api?username=imumairakram&show_icons=true&theme=dark)
 
