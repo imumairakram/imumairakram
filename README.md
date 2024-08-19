@@ -2,7 +2,7 @@
 
 - ✨ Student of life :)
 - 🌱 I’m currently learning Python
-- 📫 How to reach me: umaaiirakram@gmail.com
+- 📫 How to reach me: muhammadum9ir@gmail.com
 - ⚡ My website: https://imumairakram.github.io/Portfolio
 
 <br>
