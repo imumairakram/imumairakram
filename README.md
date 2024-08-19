@@ -6,6 +6,7 @@
 - ⚡ My website: https://imumairakram.github.io/Portfolio
 
 <br>
+
 ### Connect with me:
 <div id="badges">
   <a href="https://github.com/imumairakram">
@@ -39,9 +40,11 @@
   <img src="https://www.vectorlogo.zone/logos/canva/canva-icon.svg" alt="Canva" width="40" height="40"/>
 </p>
 <br>
+
 ![Umair Akram GitHub stats](https://github-readme-stats.vercel.app/api?username=imumairakram&show_icons=true&theme=dark)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=imumairakram&theme=dark)
 
 <br>
+
 ⭐️ From [Umair Akram](https://github.com/imumairakram)
