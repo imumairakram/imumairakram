@@ -27,15 +27,16 @@
 ### Languages and Tools:
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python" alt="Python" width="40" height="40"/>
-  <img src="https://skillicons.dev/icons?i=java" alt="Java" width="40" height="40"/>
-  <img src="https://skillicons.dev/icons?i=github" alt="GitHub" width="40" height="40"/>
-  <img src="https://skillicons.dev/icons?i=git" alt="Git" width="40" height="40"/>
-  <img src="https://skillicons.dev/icons?i=vscode" alt="VS Code" width="40" height="40"/>
-  <img src="https://skillicons.dev/icons?i=figma" alt="Figma" width="40" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" alt="Jupyter Notebook" width="40" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/6/62/Logo_of_Canva.png" alt="Canva" width="40" height="40"/>
+  <img src="https://skillicons.dev/icons?i=python" alt="Python" width="40" height="40"/>&nbsp;
+  <img src="https://skillicons.dev/icons?i=java" alt="Java" width="40" height="40"/>&nbsp;
+  <img src="https://skillicons.dev/icons?i=github" alt="GitHub" width="40" height="40"/>&nbsp;
+  <img src="https://skillicons.dev/icons?i=git" alt="Git" width="40" height="40"/>&nbsp;
+  <img src="https://skillicons.dev/icons?i=vscode" alt="VS Code" width="40" height="40"/>&nbsp;
+  <img src="https://skillicons.dev/icons?i=figma" alt="Figma" width="40" height="40"/>&nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" alt="Jupyter Notebook" width="40" height="40"/>&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/canva/canva-icon.svg" alt="Canva" width="40" height="40"/>
 </p>
+
 
 
 ![Umair Akram GitHub stats](https://github-readme-stats.vercel.app/api?username=imumairakram&show_icons=true&theme=dark)
