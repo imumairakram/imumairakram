@@ -45,6 +45,4 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=imumairakram&theme=dark)
 
-<br>
-
 ⭐️ From [Umair Akram](https://github.com/imumairakram)
