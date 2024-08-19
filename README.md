@@ -24,7 +24,7 @@
 </div>
 
 ### Languages and Tools:
-[![My Skills](https://skillicons.dev/icons?i=python,java,github,canva,git,jupyternotebook,vscode,figma,xd&perline=4)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,java,github,git,vscode,figma,xd&perline=3)](https://skillicons.dev)
 
 ![Umair Akram GitHub stats](https://github-readme-stats.vercel.app/api?username=imumairakram&show_icons=true&theme=dark)
 
