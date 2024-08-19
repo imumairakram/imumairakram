@@ -4,7 +4,8 @@
 - 🌱 I’m currently learning Python
 - 📫 How to reach me: umaaiirakram@gmail.com
 - ⚡ My website: https://imumairakram.github.io/Portfolio
-  
+
+<br>
 ### Connect with me:
 <div id="badges">
   <a href="https://github.com/imumairakram">
@@ -23,6 +24,7 @@
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
+<br>
 
 ### Languages and Tools:
 
@@ -36,10 +38,7 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" alt="Jupyter Notebook" width="40" height="40"/>&nbsp;
   <img src="https://www.vectorlogo.zone/logos/canva/canva-icon.svg" alt="Canva" width="40" height="40"/>
 </p>
-
-
-
-
+<br>
 ![Umair Akram GitHub stats](https://github-readme-stats.vercel.app/api?username=imumairakram&show_icons=true&theme=dark)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=imumairakram&theme=dark)
