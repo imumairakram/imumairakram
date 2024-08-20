@@ -1,4 +1,13 @@
-<h1 align="center">Hi 👋, I'm Umair Akram</h1>
+<h1 align="center" style="color: #007ACC; font-family: 'Fira Code', monospace;">
+  Hi There 👋
+</h1>
+
+<p align="center">
+  <a href="#">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=28&duration=4000&pause=1000&color=007ACC&background=1E1E1E&center=true&vCenter=true&width=500&height=60&lines=I'm+Umair+Akram;Welcome+to+My+VS+Code+Themed+Profile!" />
+  </a>
+</p>
+
 
 - ✨ Student of life :)
 - 🌱 I’m currently learning Python
@@ -42,6 +51,12 @@
 </p>
 <br>
 
-![Umair Akram GitHub stats](https://github-readme-stats.vercel.app/api?username=imumairakram&show_icons=true&theme=dark)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=imumairakram&theme=dark)
+## GitHub Stats
+![Umair Akram's GitHub Stats](https://github-readme-stats.vercel.app/api?username=umairakram&show_icons=true&theme=dark)
+
+## Top Languages
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=umairakram&layout=compact&theme=dark)
+
+## GitHub Trophies
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=umairakram&theme=darkhub)
