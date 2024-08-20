@@ -46,10 +46,11 @@
   <img src="https://skillicons.dev/icons?i=git" alt="Git" width="40" height="40"/>&nbsp;
   <img src="https://www.vectorlogo.zone/logos/canva/canva-icon.svg" alt="Canva" width="40" height="40"/>
 </p>
-<br>
+<be>
 
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=imumairakram&theme=dark)
 
 ![Umair Akram GitHub stats](https://github-readme-stats.vercel.app/api?username=imumairakram&show_icons=true&theme=dark)
 
-[![GitHub Streak](user=imumairakram&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D&background=1E1E1E&ring=007ACC&fire=007ACC&currStreakLabel=007ACC)]
 
