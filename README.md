@@ -51,7 +51,8 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=imumairakram&theme=dark)
 
-![Umair Akram GitHub stats](https://github-readme-stats.vercel.app/api?username=imumairakram&show_icons=true&theme=dark)
+![Umair Akram GitHub stats](https://github-readme-stats.vercel.app/api?username=imumairakram&show_icons=true&theme=dark&icon_color=ffffff)
+
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=imumairakram&theme=dark" alt="imumairakram" /></p>
 
