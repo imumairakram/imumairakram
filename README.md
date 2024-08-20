@@ -5,6 +5,8 @@
   </a>
 </p>
 
+![Profile Views](https://komarev.com/ghpvc/?username=imumairakram&color=blueviolet&style=flat-square)
+
 
 - ✨ Student of life :)
 - 🌱 I’m currently learning Python
