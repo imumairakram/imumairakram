@@ -52,11 +52,6 @@
 <br>
 
 
-## GitHub Stats
-![Umair Akram's GitHub Stats](https://github-readme-stats.vercel.app/api?username=umairakram&show_icons=true&theme=dark)
+![Umair Akram GitHub stats](https://github-readme-stats.vercel.app/api?username=imumairakram&show_icons=true&theme=dark)
 
-## Top Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=umairakram&layout=compact&theme=dark)
-
-## GitHub Trophies
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=umairakram&theme=darkhub)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=imumairakram&theme=dark)
