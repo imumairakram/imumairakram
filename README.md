@@ -51,5 +51,5 @@
 
 ![Umair Akram GitHub stats](https://github-readme-stats.vercel.app/api?username=imumairakram&show_icons=true&theme=dark)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=umairakram&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D&background=1E1E1E&ring=007ACC&fire=007ACC&currStreakLabel=007ACC)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=umairakram&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D&background=1E1E1E&ring=007ACC&fire=007ACC&currStreakLabel=007ACC)]
 
