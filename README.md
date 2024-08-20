@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="#">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=28&duration=4000&pause=1000&color=007ACC&background=1E1E1E&center=true&vCenter=true&width=500&height=60&lines=I'm+Umair+Akram;Welcome+to+My+VS+Code+Themed+Profile!" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=28&duration=4000&pause=1000&color=007ACC&background=1E1E1E&center=true&vCenter=true&width=500&height=60&lines=I'm+Umair+Akram;Welcome+to+My+Profile!" />
   </a>
 </p>
 
