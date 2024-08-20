@@ -53,4 +53,5 @@
 
 ![Umair Akram GitHub stats](https://github-readme-stats.vercel.app/api?username=imumairakram&show_icons=true&theme=dark)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=imumairakram" alt="imumairakram" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=imumairakram&theme=dark" alt="imumairakram" /></p>
+
