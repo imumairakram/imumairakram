@@ -1,10 +1,7 @@
-<h1 align="center" style="color: #007ACC; font-family: 'Fira Code', monospace;">
-  Hi There 👋
-</h1>
 
-<p align="center">
+<p align="center" style="color: #007ACC; font-family: 'Fira Code', monospace;>
   <a href="#">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=28&duration=4000&pause=1000&color=007ACC&background=1E1E1E&center=true&vCenter=true&width=500&height=60&lines=I'm+Umair+Akram;Welcome+to+My+Profile!" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=28&duration=4000&pause=1000&color=007ACC&background=1E1E1E&center=true&vCenter=true&width=500&height=60&lines=Hi+There+I'm+Umair+Akram;Welcome+to+My+Profile!"/>
   </a>
 </p>
 
@@ -54,4 +51,5 @@
 
 ![Umair Akram GitHub stats](https://github-readme-stats.vercel.app/api?username=imumairakram&show_icons=true&theme=dark)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=imumairakram&theme=dark)
+[![GitHub Streak](https://streak-stats.demolab.com?user=umairakram&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D&background=1E1E1E&ring=007ACC&fire=007ACC&currStreakLabel=007ACC)](https://git.io/streak-stats)
+
