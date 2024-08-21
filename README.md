@@ -16,9 +16,7 @@
  
  🌱 I’m currently learning **Python, Java**
 
- 💬 Ask me about **Node.js, React, Firebase... or anything [here](https://github.com/imumairakram/imumairakram/issues)**
-
-⚡ Fun fact: **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
+⚡ Fun fact: **The first airplane flight happened on December 17, 1903**
 
  </div>
  
