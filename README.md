@@ -1,54 +1,70 @@
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=imumairakram.imumairakram" />
 
-<p align="center" style="color: #007ACC; font-family: 'Fira Code', monospace;>
-  <a href="#">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=28&duration=4000&pause=1000&color=007ACC&background=1E1E1E&center=true&vCenter=true&width=500&height=60&lines=Hi+There+I'm+Umair+Akram;Welcome+to+My+Profile!"/>
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Umair+Akram!;" />
+</h1>
+
+<h3 align="center">A passionate software developer from Pakistan </h3>
+
+<br/>
+
+<div align="center">
+
+ 🔭 I’m currently working on **a marketplace**
+ 
+ 🌱 I’m currently learning **Python, Java**
+
+ 💬 Ask me about **Node.js, React, Firebase... or anything [here](https://github.com/imumairakram/imumairakram/issues)**
+
+⚡ Fun fact: **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
+
+ </div>
+ 
+<div align="center"> 
+  <a href="mailto:umaaiirakram@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
-</p>
-
-![Profile Views](https://komarev.com/ghpvc/?username=imumairakram&color=blueviolet&style=flat-square)
-
-
-- ✨ Student of life :)
-- 🌱 I’m currently learning Python
-- 📫 How to reach me: muhammadum9ir@gmail.com
-- ⚡ My website: https://imumairakram.github.io/Portfolio
-
-<br>
-
-### Connect with me:
-<div id="badges">
-  <a href="https://www.linkedin.com/in/imumairakram">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  <a href="https://www.linkedin.com/in/imumairakram" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
-   <a href="https://www.instagram.com/imumairakram">
-    <img src="https://img.shields.io/badge/Instagram-purple?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
-  </a>
-   <a href="https://fb.com/umairakram.4">
-    <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
+  <a href="https://imumairakram.github.io/Portfolio" target="_blank">
+     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
   </a>
 </div>
+
+ <hr/>
+ 
+<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<br/>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,vscode,github,figma,tailwind,git,r" />
+    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,firebase,mongodb,c,java,nextjs,mysql,flask" /><br>
+</div>
+
+<br/>
+<hr/>
+
+<div align="center">
+  <h2>🐍 My Contributions 🐍</h2>
+  <br>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/imumairakram/imumairakram/output/github-contribution-grid-snake.svg" />
+  
+  <br/><br/><br/>
+</div>
+
+<hr/>
+
+<h2 align="center">⚡ Stats ⚡</h2>
 <br>
+<div align=center>
+  <img width=390 src="https://github-readme-streak-stats.vercel.app/?user=imumairakram&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
+  <img width=390 src="https://github-readme-stats.vercel.app/api?username=imumairakram&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+  <br/>
+  <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imumairakram&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+</div>
 
-### Languages and Tools:
+<br/><br/>
 
-<p>
-  <img src="https://skillicons.dev/icons?i=python" alt="Python" width="40" height="40"/>&nbsp;
-  <img src="https://skillicons.dev/icons?i=java" alt="Java" width="40" height="40"/>&nbsp;
-  <img src="https://skillicons.dev/icons?i=c" alt="C Programming" width="40" height="40"/>&nbsp;
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" alt="Jupyter Notebook" width="40" height="40"/>&nbsp;
-  <img src="https://skillicons.dev/icons?i=github" alt="GitHub" width="40" height="40"/><br>
-  <img src="https://skillicons.dev/icons?i=vscode" alt="VS Code" width="40" height="40"/>&nbsp;
-  <img src="https://skillicons.dev/icons?i=figma" alt="Figma" width="40" height="40"/>&nbsp;
-  <img src="https://skillicons.dev/icons?i=git" alt="Git" width="40" height="40"/>&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/canva/canva-icon.svg" alt="Canva" width="40" height="40"/>
-</p>
-<be>
+<hr/>
 
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=imumairakram&theme=dark)
-
-![Umair Akram GitHub stats](https://github-readme-stats.vercel.app/api?username=imumairakram&show_icons=true&theme=dark&icon_color=ffffff)
-
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=imumairakram&theme=dark" alt="imumairakram" /></p>
-
+<br/>
