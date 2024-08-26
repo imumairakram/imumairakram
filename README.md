@@ -6,6 +6,12 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm;+Muhammad+Umair+Akram!;" />
 </h1>
 
+<br/>
+
+<img src="https://github.com/imumairakram/imumairakram/blob/main/Github%20Banner.jpeg" alt="GitHub Banner" width="100%" />
+
+<br/>
+
 <h3 align="center"> Undergraduate Software Engineer | Python Enthusiast </h3>
 
 <br/>
