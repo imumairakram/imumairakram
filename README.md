@@ -10,7 +10,6 @@
 
 <img src="https://github.com/imumairakram/imumairakram/blob/main/Github%20Banner.jpeg" alt="GitHub Banner" width="100%" />
 
-<br/>
 
 <h3 align="center"> Undergraduate Software Engineer | Python Enthusiast </h3>
 
