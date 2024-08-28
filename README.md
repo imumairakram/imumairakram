@@ -17,11 +17,11 @@
 
 <div align="center">
  
- 🌱 I’m currently learning **Python, Java**
+ 🌱 I’m currently learning **Python, Java.**
  
  💬 Ask me about **Python, Java, Web Development (HTML, CSS, JavaScript)**
 
-⚡ Fun fact: **The first airplane flight happened on December 17, 1903**
+⚡ Fun fact: **The first airplane flight happened on December 17, 1903.**
 
  </div>
  
