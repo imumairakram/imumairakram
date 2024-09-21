@@ -43,7 +43,7 @@
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=html,css,javascript,vscode,github,figma,git" />
-    <img src="https://skillicons.dev/icons?i=python,r,c,java,nodejs,mysql,react,bootstrap,flask"/><br>
+    <img src="https://skillicons.dev/icons?i=python,r,c,java,nodejs,mysql,react,bootstrap,flask,shellscript"/><br>
 </div>
 
 <br/>
