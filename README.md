@@ -17,7 +17,7 @@
 
 <div align="center">
  
- 🌱 I’m currently learning **Python, Java.**
+ 🌱 I’m currently learning **Python, Java, SQL.**
  
  💬 Ask me about **Python, Java, Web Development (HTML, CSS, JavaScript)**
 
