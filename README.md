@@ -11,7 +11,7 @@
 <img src="https://github.com/imumairakram/imumairakram/blob/main/Github%20Banner.jpeg" alt="GitHub Banner" width="100%" />
 
 
-<h3 align="center"> Data Engineering Student | Python Enthusiast | Skilled Web Developer </h3>
+<h3 align="center"> Cloud Data Engineer | Python Enthusiast | Skilled Web Developer </h3>
 
 <br/>
 
