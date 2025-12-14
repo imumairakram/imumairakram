@@ -14,7 +14,7 @@
 <h3 align="center"> Cloud Data Engineer | Python Enthusiast | Skilled Web Developer </h3>
 
 <br/>
-
+<!--
 <div align="center">
  
  🌱 I’m currently learning **Python, Java, SQL.**
@@ -24,7 +24,7 @@
 ⚡ Fun fact: **The first airplane flight happened on December 17, 1903.**
 
  </div>
- 
+ -->
 <div align="center"> 
   <a href="mailto:umaaiirakram@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
