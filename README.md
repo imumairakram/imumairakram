@@ -30,11 +30,11 @@
 <br/>
 
 ## 🚀 About Me
-I am a passionate **Full Stack Developer** dedicated to building scalable, user-centric web applications. I thrive on solving complex problems and turning ideas into functional, high-performance digital experiences.
+I am a passionate **Full Stack Developer** and **Data Engineer** dedicated to building scalable, user-centric web applications. With a solid foundation in Cloud Data and Advanced Python, I enjoy bridging the gap between complex data processing and modern web interfaces.
 
-- 🔭 I’m currently working on **Scalable Web Architectures**
-- 🌱 I’m currently learning **Advanced System Design**
-- 💬 Ask me about **Python, JavaScript, or UI/UX**
+- 🔭 I’m currently building full-stack applications with the **MERN Stack** (MongoDB, Express, React, Node.js)
+- 🌱 Recently completed **Cloud Data Engineering** & **Advanced Python** specialization
+- 💬 Ask me about **Python Automation or Data Pipelines**
 - 📫 Reach me at: **umaaiirakram@gmail.com**
 
 <hr/>
