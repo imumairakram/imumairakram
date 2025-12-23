@@ -54,9 +54,6 @@ I am a passionate **Full Stack Developer** and **Data Engineer** dedicated to bu
   <br/>
   <img width="450" src="https://github-readme-streak-stats.herokuapp.com/?user=imumairakram&theme=react&border_radius=10" alt="streak stats" />
 </div>
-
-<br/>
-
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=react&quote=First%20solve%20the%20problem.%20Then,%20write%20the%20code.&author=John%20Johnson" alt="Developer Quote" />
 </p>
