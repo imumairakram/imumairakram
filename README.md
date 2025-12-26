@@ -57,4 +57,3 @@ I am a passionate **Full Stack Developer** and **Data Engineer** dedicated to bu
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=react&quote=First%20solve%20the%20problem.%20Then,%20write%20the%20code.&author=John%20Johnson" alt="Developer Quote" />
 </p>
-<hr/>
