@@ -34,7 +34,7 @@ I am a passionate **Full Stack Developer** and **Data Engineer** dedicated to bu
 
 - 🔭 I’m currently building full-stack applications with the **MERN Stack** (MongoDB, Express, React, Node.js)
 - 🌱 Recently completed **Cloud Data Engineering** & **Advanced Python** specialization
-- 💬 Ask me about **Python Automation or Data Pipelines**
+- 💬 Ask me about **React, Full Stack Development, or Web projects!**
 - 📫 Reach me at: **umaaiirakram@gmail.com**
 
 <hr/>
