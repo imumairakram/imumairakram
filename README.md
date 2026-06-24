@@ -1,6 +1,9 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Muhammad%20Umair%20Akram&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32" width="100%" />
-</p>
+<div align="center">
+
+<!-- Banner / Animated Header -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:0E4C92,100:00C2FF&height=200&section=header&text=Muhammad%20Umair%20Akram&fontSize=55&fontColor=FFFFFF&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20MERN%20%7C%20Python%20Developer&descAlignY=58&descSize=18&animation=fadeIn" />
+
+<br/>
 
 <p align="center">
   <img src="https://github.com/imumairakram/imumairakram/blob/main/Github%20Banner.jpeg?raw=true" alt="GitHub Banner" width="100%" style="border-radius: 10px;" />
@@ -54,6 +57,9 @@ I am a passionate **Full Stack Developer** and **Data Engineer** dedicated to bu
   <br/>
   <img width="450" src="https://github-readme-streak-stats.herokuapp.com/?user=imumairakram&theme=react&border_radius=10" alt="streak stats" />
 </div>
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=react&quote=First%20solve%20the%20problem.%20Then,%20write%20the%20code.&author=John%20Johnson" alt="Developer Quote" />
-</p>
+<div align="center">
+
+<!-- Footer Wave -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00C2FF,100:0D1117&height=120&section=footer" />
+
+</div>
