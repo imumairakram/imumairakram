@@ -32,13 +32,22 @@
 </p>
 <br/>
 
-## 🚀 About Me
-I am a passionate **Full Stack Developer** and **Data Engineer** dedicated to building scalable, user-centric web applications. With a solid foundation in Cloud Data and Advanced Python, I enjoy bridging the gap between complex data processing and modern web interfaces.
+## ⚡ About Me
 
-- 🔭 I’m currently building full-stack applications with the **MERN Stack** (MongoDB, Express, React, Node.js)
-- 🌱 Recently completed **Cloud Data Engineering** & **Advanced Python** specialization
-- 💬 Ask me about **React, Full Stack Development, or Web projects!**
-- 📫 Reach me at: **umaaiirakram@gmail.com**
+> **Full-Stack Developer** dedicated to building high-performance, resilient web applications. Combining a core specialization in the **MERN Stack** with a solid foundation in **Cloud Architecture & Advanced Python**, I treat complex backend data processing and polished, fluid user interfaces with equal importance.
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <b>🔭 Current Focus:</b> Architecting scalable full-stack applications & intelligent backend APIs.<br/><br/>
+      <b>💡 Core Philosophy:</b> Write code that is clean, modular, and instantly scannable.<br/>
+    </td>
+    <td width="50%" valign="top">
+      <b>🌱 Superpowers:</b> React.js, Node/Express, MongoDB, combined with Python automation.<br/><br/>
+      <b>📫 Get in Touch:</b> <a href="mailto:umaaiirakram@gmail.com">umaaiirakram@gmail.com</a><br/>
+    </td>
+  </tr>
+</table>
 
 <hr/>
 
