@@ -1,34 +1,10 @@
-<div align="center">
-
-<!-- Banner / Animated Header -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:0E4C92,100:00C2FF&height=200&section=header&text=Muhammad%20Umair%20Akram&fontSize=55&fontColor=FFFFFF&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20MERN%20%7C%20Python%20Developer%20%7C%20Cloud%20Data%20Engineer&descAlignY=58&descSize=18&animation=fadeIn" />
-
-<p align="center">
-  <img src="https://github.com/imumairakram/imumairakram/blob/main/Github%20Banner.jpeg?raw=true" alt="GitHub Banner" width="100%" style="border-radius: 10px;" />
-</p>
-
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=600&height=100&duration=3000&pause=1000&lines=Hi+There+👋;I'm+Muhammad+Umair+Akram.;Full+Stack+Developer.;Building+Scalable+Web+Apps;" alt="Typing SVG" />
 </h1>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Status-Available_for_Hire-32CD32?style=for-the-badge&logo=github" />
-  <img src="https://img.shields.io/badge/Based_In-Pakistan-01411C?style=for-the-badge&logo=pakistan&logoColor=white" />
-  <img src="https://komarev.com/ghpvc/?username=imumairakram&label=Profile%20Views&color=8A2BE2&style=for-the-badge" />
+  <img src="https://github.com/imumairakram/imumairakram/blob/main/Github%20Banner.jpeg?raw=true" alt="GitHub Banner" width="100%" style="border-radius: 10px;" />
 </p>
-
-<p align="center">
-  <a href="mailto:umaaiirakram@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Let's_Connect-00D9FF?style=flat-square&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/imumairakram" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://umair-portfolio-beta.vercel.app" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-Visit_Website-FF6B6B?style=flat-square&logo=googlechrome&logoColor=white" />
-  </a>
-</p>
-<br/>
 
 ## ⚡ About Me
 
@@ -46,6 +22,30 @@
     </td>
   </tr>
 </table>
+
+<div align="center">
+
+  <!-- Top Row: Stats & Status -->
+  <a href="https://github.com/imumairakram">
+    <img src="https://img.shields.io/badge/Status-Available_for_Hire-00C853?style=for-the-badge&logo=github&logoColor=white" alt="Status" />
+  </a>
+  <img src="https://img.shields.io/badge/Based_in-Pakistan-00401A?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location" />
+  <img src="https://komarev.com/ghpvc/?username=imumairakram&label=Profile%20Views&color=6200EA&style=for-the-badge" alt="Profile Views" />
+
+  <br />
+
+  <!-- Bottom Row: Contact & Links -->
+  <a href="mailto:umaaiirakram@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Let's_Connect-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://www.linkedin.com/in/imumairakram">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://umair-portfolio-beta.vercel.app">
+    <img src="https://img.shields.io/badge/Portfolio-Visit_Website-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+  </a>
+
+</div>
 
 <hr/>
 
@@ -65,8 +65,3 @@
   <img width="450" src="https://github-readme-streak-stats.herokuapp.com/?user=imumairakram&theme=react&border_radius=10" alt="streak stats" />
 </div>
 <div align="center">
-
-<!-- Footer Wave -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00C2FF,100:0D1117&height=120&section=footer" />
-
-</div>
