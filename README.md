@@ -6,7 +6,9 @@
   <img src="https://github.com/imumairakram/imumairakram/blob/main/Github%20Banner.jpeg?raw=true" alt="GitHub Banner" width="100%" style="border-radius: 10px;" />
 </p>
 
-## ⚡ About Me
+<h2 align="center">⚡ About Me ⚡</h2>
+
+
 
 > **Full-Stack Developer** dedicated to building high-performance, resilient web applications. Combining a core specialization in the **MERN Stack** with a solid foundation in **Cloud Architecture & Advanced Python**, I treat complex backend data processing and polished, fluid user interfaces with equal importance.
 
