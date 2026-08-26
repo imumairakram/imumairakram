@@ -61,9 +61,8 @@
 
 <h2 align="center">⚡ GitHub Analytics ⚡</h2>
 <div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imumairakram&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10" alt="top langs" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=imumairakram&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+  <img height="180" src="https://github-readme-stats-red-six-45.vercel.app/api/top-langs/?username=imumairakram&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10" alt="top langs" />
+  <img height="180" src="https://github-readme-stats-red-six-45.vercel.app/api?username=imumairakram&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
   <br/>
-  <img width="450" src="https://github-readme-streak-stats.herokuapp.com/?user=imumairakram&theme=react&border_radius=10" alt="streak stats" />
+  <!-- <img width="450" src="https://streak-stats.demolab.com/?user=imumairakram&theme=react&border_radius=10" alt="streak stats" /> -->
 </div>
-<div align="center">
