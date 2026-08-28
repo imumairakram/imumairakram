@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=header" width="100%" />
+</p>
+
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=600&height=100&duration=3000&pause=1000&lines=Hi+There+👋;I'm+Muhammad+Umair+Akram.;Full+Stack+Developer.;Building+Scalable+Web+Apps;" alt="Typing SVG" />
 </h1>
@@ -68,3 +72,80 @@ const umair = {
     <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,python,flask,mongodb,mysql" /><br><br>
     <img src="https://skillicons.dev/icons?i=aws,linux,bash,git,github,vscode,postman,figma" /><br>
 </div>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  
+### 📈 Performance Overview
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=imumairakram&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" height="170" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=imumairakram&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="170" />
+</p>
+
+### 💻 Most Used Languages
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imumairakram&layout=compact&theme=tokyonight&hide_border=true&langs_count=10&card_width=445" alt="Top Languages" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=imumairakram&layout=compact&theme=tokyonight&hide_border=true&card_width=445" alt="WakaTime Stats" height="170" />
+</p>
+
+---
+
+## 🔗 Connect With Me
+
+<p align="center">
+  <a href="https://linkedin.com/in/imumairakram" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://twitter.com/imumairakram" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+  </a>
+  <a href="https://instagram.com/imumairakram" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+  <a href="mailto:umaaiirakram@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://umair-portfolio-beta.vercel.app" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
+  </a>
+</p>
+
+---
+
+<div align="center">
+  
+### 💼 Open For Opportunities
+
+<table>
+<tr>
+<td align="center" width="33%">
+  
+**💻 Freelance Projects**  
+Available for web development projects
+
+</td>
+<td align="center" width="33%">
+  
+**🏢 Full-Time Positions**  
+Seeking challenging opportunities
+
+</td>
+<td align="center" width="33%">
+  
+**🤝 Collaborations**  
+Open to interesting partnerships
+
+</td>
+</tr>
+</table>
+
+</div>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%" />
+</p>
