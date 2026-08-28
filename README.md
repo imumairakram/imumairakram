@@ -51,6 +51,9 @@ const umair = {
     openTo: ["Internships", "Freelance Projects", "Full-Time Opportunities"]
 };
 ```
+
+---
+
 ## 💼 Experience & Career Journey
 
 <div align="center">
@@ -66,7 +69,7 @@ const umair = {
 
 ---
 
-## ⚒️ Tech Stack ⚒️
+## ⚒️ Tech Stack 
 <div align="center">
     <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,bootstrap" /><br><br>
     <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,python,flask,mongodb,mysql" /><br><br>
