@@ -83,14 +83,9 @@ const umair = {
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=imumairakram&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="170" />
+  <img src="https://github-readme-stats-red-six-45.vercel.app/api/top-langs/?username=imumairakram&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10" alt="Top Langs" height="170" />
 </p>
-
-### 💻 Most Used Languages
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imumairakram&layout=compact&theme=tokyonight&hide_border=true&langs_count=10&card_width=445" alt="Top Languages" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=imumairakram&layout=compact&theme=tokyonight&hide_border=true&card_width=445" alt="WakaTime Stats" height="170" />
-</p>
+</div>
 
 ---
 
@@ -116,9 +111,9 @@ const umair = {
 
 ---
 
+## 💼 Open For Opportunities
+
 <div align="center">
-  
-### 💼 Open For Opportunities
 
 <table>
 <tr>
