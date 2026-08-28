@@ -2,29 +2,6 @@
   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=600&height=100&duration=3000&pause=1000&lines=Hi+There+👋;I'm+Muhammad+Umair+Akram.;Full+Stack+Developer.;Building+Scalable+Web+Apps;" alt="Typing SVG" />
 </h1>
 
-<p align="center">
-  <img src="https://github.com/imumairakram/imumairakram/blob/main/Github%20Banner.jpeg?raw=true" alt="GitHub Banner" width="100%" style="border-radius: 10px;" />
-</p>
-
-<h2 align="center">⚡ About Me ⚡</h2>
-
-
-
-> **Full-Stack Developer** dedicated to building high-performance, resilient web applications. Combining a core specialization in the **MERN Stack** with a solid foundation in **Cloud Architecture & Advanced Python**, I treat complex backend data processing and polished, fluid user interfaces with equal importance.
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <b>🔭 Current Focus:</b> Architecting scalable full-stack applications & intelligent backend APIs.<br/><br/>
-      <b>💡 Core Philosophy:</b> Write code that is clean, modular, and instantly scannable.<br/>
-    </td>
-    <td width="50%" valign="top">
-      <b>🌱 Superpowers:</b> React.js, Node/Express, MongoDB, combined with Python automation.<br/><br/>
-      <b>📫 Get in Touch:</b> <a href="mailto:umaaiirakram@gmail.com">umaaiirakram@gmail.com</a><br/>
-    </td>
-  </tr>
-</table>
-
 <div align="center">
 
   <!-- Top Row: Stats & Status -->
@@ -49,20 +26,45 @@
 
 </div>
 
-<hr/>
+---
 
-<h2 align="center">⚒️ Tech Stack ⚒️</h2>
+## 👨‍💻 About Me
+
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
+
+```javascript
+const umair = {
+    location: "Karachi, Pakistan 🇵🇰",
+    role: "Full Stack Web Developer & Software Engineering Student",
+    education: "BSc Software Engineering, Iqra University",
+    technologies: {
+        frontEnd: ["HTML", "CSS", "JavaScript", "React.js", "Next.js", "Tailwind CSS"],
+        backEnd: ["Node.js", "Express.js", "Python"],
+        databases: ["MongoDB", "PostgreSQL"],
+        tools: ["Git", "GitHub", "Vercel", "Render", "Postman", "Figma"]
+    },
+    currentFocus: ["MERN Stack Architecture", "RESTful API Development"],
+    openTo: ["Internships", "Freelance Projects", "Full-Time Opportunities"]
+};
+```
+## 💼 Experience & Career Journey
+
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=python,java,c,html,css,javascript,nodejs,mysql,bash,linux" />
-    <img src="https://skillicons.dev/icons?i=vscode,bootstrap,flask,github,figma,git,illustrator"/><br>
+
+| 📅 Period | 💼 Role | 🛠️ Stack Highlights |
+|-----------|---------|----------------------|
+| **2025 – Present** | 🚀 MERN Stack Developer | React · Node.js · Express · MongoDB |
+| **2024 - 2025** | ☁️ Cloud Data Engineer | AWS · Apache Spark · Airflow · Snowflake |
+| **2023 – 2024** | ⚙️ Backend Developer | Python · NestJS · PHP · Laravel · SQL |
+| **2022 – 2023** | 🌐 Web Developer | HTML · CSS · JavaScript · Bootstrap |
+
 </div>
 
-<hr/>
+---
 
-<h2 align="center">⚡ GitHub Analytics ⚡</h2>
+## ⚒️ Tech Stack ⚒️
 <div align="center">
-  <img height="180" src="https://github-readme-stats-red-six-45.vercel.app/api/top-langs/?username=imumairakram&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10" alt="top langs" />
-  <img height="180" src="https://github-readme-stats-red-six-45.vercel.app/api?username=imumairakram&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
-  <br/>
-  <!-- <img width="450" src="https://streak-stats.demolab.com/?user=imumairakram&theme=react&border_radius=10" alt="streak stats" /> -->
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,bootstrap" /><br><br>
+    <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,python,flask,mongodb,mysql" /><br><br>
+    <img src="https://skillicons.dev/icons?i=aws,linux,bash,git,github,vscode,postman,figma" /><br>
 </div>
