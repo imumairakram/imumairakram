@@ -60,7 +60,7 @@ const umair = {
 
 | 📅 Period | 💼 Role | 🛠️ Stack Highlights |
 |-----------|---------|----------------------|
-| **2025 – Present** | 🚀 MERN Stack Developer | React · Node.js · Express · MongoDB |
+| **2025 – Present** | 🚀 MERN/PERN Stack Developer | React · Node.js · Express · MongoDB · PostgreSQL |
 | **2024 - 2025** | ☁️ Cloud Data Engineer | AWS · Apache Spark · Airflow · Snowflake |
 | **2023 – 2024** | ⚙️ Backend Developer | Python · NestJS · PHP · Laravel · SQL |
 | **2022 – 2023** | 🌐 Web Developer | HTML · CSS · JavaScript · Bootstrap |
@@ -84,7 +84,6 @@ const umair = {
   
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=imumairakram&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="170" />
-  <img src="https://github-readme-stats-red-six-45.vercel.app/api/top-langs/?username=imumairakram&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10" alt="Top Langs" height="170" />
 </p>
 </div>
 
