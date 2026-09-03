@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=600&height=100&duration=3000&pause=1000&lines=Hi+There+👋;I'm+Muhammad+Umair+Akram.;Full+Stack+Developer.;Building+Scalable+Web+Apps;" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=600&height=100&duration=3000&pause=1000&lines=Hi+There+👋;I'm+Muhammad+Umair+Akram.;Full+Stack+Developer.;Python+Developer.;Cloud+Data+Engineer.;Building+Scalable+Web+Apps;" alt="Typing SVG" />
 </h1>
 
 <div align="center">
@@ -60,9 +60,9 @@ const umair = {
 
 | 📅 Period | 💼 Role | 🛠️ Stack Highlights |
 |-----------|---------|----------------------|
-| **2025 – Present** | 🚀 MERN/PERN Stack Developer | React · Node.js · Express · MongoDB · PostgreSQL |
+| **2025 – Present** | 🚀 MERN/PERN Stack Developer | React.js · Next.js ·Node.js · Express.js · MongoDB · PostgreSQL |
 | **2024 - 2025** | ☁️ Cloud Data Engineer | AWS · Apache Spark · Airflow · Snowflake |
-| **2023 – 2024** | ⚙️ Backend Developer | Python · NestJS · PHP · Laravel · SQL |
+| **2023 – 2024** | ⚙️ Backend Developer | Python · NestJS · Laravel · SQL |
 | **2022 – 2023** | 🌐 Web Developer | HTML · CSS · JavaScript · Bootstrap |
 
 </div>
