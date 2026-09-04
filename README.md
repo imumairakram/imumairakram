@@ -61,7 +61,7 @@ const umair = {
 | 📅 Period | 💼 Role | 🛠️ Stack Highlights |
 |-----------|---------|----------------------|
 | **2025 – Present** | 🚀 MERN/PERN Stack Developer | React.js · Next.js ·Node.js · Express.js · MongoDB · PostgreSQL |
-| **2024 - 2025** | ☁️ Cloud Data Engineer | AWS · Apache Spark · Airflow · Snowflake |
+| **2024 - 2025** | ☁️ Cloud Data Engineer | AWS · Apache Spark · Docker · Airflow · Snowflake |
 | **2023 – 2024** | ⚙️ Backend Developer | Python · NestJS · Laravel · SQL |
 | **2022 – 2023** | 🌐 Web Developer | HTML · CSS · JavaScript · Bootstrap |
 
